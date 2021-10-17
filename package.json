@@ -30,6 +30,7 @@
     "html-loader": "^2.1.2",
     "html-webpack-plugin": "^5.4.0",
     "lodash": "^4.17.21",
+    "ls-css": "^1.6.0",
     "typescript": "^4.4.4"
   }
 }
